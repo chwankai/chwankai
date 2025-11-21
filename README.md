@@ -11,10 +11,10 @@ located_in = Johor Bahru, Malaysia
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chwankai&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chwankai" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chwankai&card_width=500&hide=jupyter%20notebook&layout=compact&langs_count=10" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chwankai&hide=jupyter%20notebook&layout=compact&langs_count=10" />
 </a>
 
 <!--
