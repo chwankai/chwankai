@@ -10,6 +10,8 @@ school = Multimedia University
 located_in = Johor Bahru, Malaysia
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chwankai)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
