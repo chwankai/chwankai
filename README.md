@@ -9,6 +9,15 @@ major = {
 school = Multimedia University
 located_in = Johor Bahru, Malaysia
 ```
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chwankai&card_width=525" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chwankai&card_width=525&hide=jupyter%20notebook&layout=compact&langs_count=10" />
+</a>
+
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chwankai&card_width=525)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chwankai&card_width=525&hide=jupyter%20notebook&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
