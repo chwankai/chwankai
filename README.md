@@ -1,5 +1,6 @@
 <div align="center">
-  <h1 align="center">Welcome to my page, I'm CK! 😆</h1>
+  <img src="/banner.heic"  alt="Profile Banner"/>
+  <h1 align="center">Hi there, I'm CK!😆</h1>
   <h4 align="center">Final year student at MMU.</h4>
 </div>
 
