@@ -38,4 +38,11 @@ located_in = Johor Bahru, Malaysia
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chwankai)
 
-## Connect Me On
+## 📫 Connect with Me
+<p align="left">
+    <a href="https://www.linkedin.com/in/ck0711/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+             alt="linkedin" width="45" height="45"/>
+    </a>
+</p>
+- Email: chwankai09132@gmail.com
