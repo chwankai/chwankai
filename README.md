@@ -46,3 +46,6 @@ currently_working_on = "People Counting System using Overhead Approach", "Restau
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
+
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chwankai)](https://github.com/anuraghazra/github-readme-stats)
