@@ -17,11 +17,11 @@ email = "chwankai09132@gmail.com"
 education = {
     "Bachelor of Computer Science (Hons), Artificial Intelligence": {
         "institution": "Multimedia University",
-        "cgpa": 3.85
+        "cgpa": 3.92/4.00
     },
     "Diploma in Information Technology": {
         "institution": "Multimedia University",
-        "cgpa": 3.70
+        "cgpa": 3.99/4.00
     }
 }
 language = "en", "zh", "ms", "ja"
